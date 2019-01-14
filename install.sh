@@ -7,7 +7,7 @@ echo "sukses terpasang botnya"
 sleep 2
 echo "untuk menjalankan ketik"
 sleep 2
-echo "cd baca"
+echo "cd bacaplus"
 sleep 2
 echo "php bot.php
 echo "pantau terus channel Airdop Alarm Gan 😂"
